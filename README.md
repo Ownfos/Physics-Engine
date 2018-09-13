@@ -2,9 +2,6 @@
 This project implements collision response of 2d rigid body.
 Usable shapes are polygon and circle.
 
-
-Control
-
   Number keys
   
     1 : Dragging mode. You can pull or move objects around by clicking and dragging them.
